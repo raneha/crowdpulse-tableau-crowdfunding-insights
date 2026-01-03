@@ -37,3 +37,7 @@ This project focuses on **how goals, categories, and timing influence success**,
 - **Tableau Desktop (Public Edition)**
 - Currency: USD  
 - Data span: 2009–2019
+
+---
+
+🔗 **Tableau Public:** https://public.tableau.com/views/CrowdPulseCrowdfundingInsights
