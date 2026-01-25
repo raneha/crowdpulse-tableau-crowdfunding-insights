@@ -23,7 +23,7 @@ The dashboards analyze campaign outcomes, success rates, funding behavior, and c
 ## 🖼 Dashboard Screenshots
 
 ### 1️⃣ Campaign Outcomes & Trends Dashboard
-![Campaign Outcomes Dashboard](dashboard_outcomes.png)
+![Campaign Outcomes Dashboard](screenshots/dashboard_outcomes.png)
 
 This dashboard provides a high-level overview of:
 - Total projects, successful projects, and success rate
@@ -32,7 +32,7 @@ This dashboard provides a high-level overview of:
 - Category-wise and global distribution of projects
 
 ### 2️⃣ Performance & Success Insights Dashboard
-![Performance & Success Dashboard](dashboard_performance.png)
+![Performance & Success Dashboard](screenshots/dashboard_performance.png)
 
 This dashboard focuses on:
 - Funding performance across different goal ranges
