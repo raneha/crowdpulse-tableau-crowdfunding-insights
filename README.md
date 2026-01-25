@@ -40,4 +40,4 @@ This project focuses on **how goals, categories, and timing influence success**,
 
 ---
 
-🔗 **Tableau Public:** https://public.tableau.com/views/CrowdPulseCrowdfundingInsights
+🔗 **Tableau Public:** https://public.tableau.com/views/crowdpulse_dashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
